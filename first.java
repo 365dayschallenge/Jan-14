@@ -4,7 +4,7 @@ class OOP {
     protected Double fees_paid;
     public Double fees_bal;
 
-    String Payfees(){
+    public void Payfees(){
         System.out.println("John");
     }
     private void register(){
